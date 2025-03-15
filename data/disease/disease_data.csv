@@ -1,0 +1,11 @@
+patient_id,timestamp,age,gender,fever,cough,shortness_of_breath,travel_history,hospital_visits,vaccination_status,infection_risk,air_quality_index,population_density,social_media_alerts
+P001,2025-03-14 10:15:00,45,Male,38.5,Severe,Yes,Yes,3,Fully,High,120,500,Yes
+P002,2025-03-14 11:30:00,30,Female,37.0,Mild,No,No,1,Partially,Low,80,300,No
+P003,2025-03-14 12:45:00,60,Male,39.0,Moderate,Yes,Yes,5,Not Vaccinated,High,150,800,Yes
+P004,2025-03-14 14:00:00,25,Other,36.8,Mild,No,No,0,Fully,Low,60,200,No
+P005,2025-03-14 15:20:00,50,Female,38.2,Severe,Yes,No,4,Partially,Medium,110,600,Yes
+P006,2025-03-14 16:10:00,33,Male,37.5,Moderate,No,Yes,2,Not Vaccinated,Medium,95,450,No
+P007,2025-03-14 17:25:00,70,Female,39.5,Severe,Yes,Yes,6,Not Vaccinated,High,170,900,Yes
+P008,2025-03-14 18:40:00,28,Male,36.7,Mild,No,No,1,Fully,Low,55,250,No
+P009,2025-03-14 19:55:00,55,Female,38.0,Moderate,Yes,No,3,Partially,Medium,105,550,Yes
+P010,2025-03-14 21:10:00,40,Male,37.8,Moderate,No,Yes,2,Fully,Medium,90,400,No
